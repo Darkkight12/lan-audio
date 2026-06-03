@@ -37,3 +37,13 @@ git clone https://github.com/Darkkight12/lan-audio.git
 
 ```bash
 git clone https://github.com/Darkkight12/lan-audio.git
+
+
+##Running the Project
+cd to the folder
+npm run dev
+On browser : http://localhost:3000
+
+
+
+
